@@ -37,7 +37,7 @@ body{
 }
 
 .greetings{
-    font-size: 7rem;
+    font-size: 6rem;
     font-weight: 900;
 }
 .greetings > span{
