@@ -20,7 +20,7 @@ var lyricsData = [
   { text: "El instante del encuentro", time: 59 },
   { text: "Está dicho que es un hecho", time: 61 },
   { text: "No la pierdas, no hay derecho", time: 63 },
-  { text: "No te olvides que la vida", time: 64 },
+  { text: "No te olvides que la vida", time: 65 },
   { text: "Casi nunca está dormida", time: 67 },
   { text: "En ese bar tan desierto", time: 94 },
   { text: "nos esperaba el encuentro", time: 95 },
@@ -43,6 +43,11 @@ var lyricsData = [
   { text: "que dejo de transcribir subs.", time: 152 },
   { text: "Espero no me funes", time: 156 },
   { text: "Solo es un detallito chiquito", time: 160 },
+  { text: "Atte: Henry 8a", time: 162 },
+  { text: "Para:", time: 164 },
+  { text: "La jugadora de Genshin", time: 166 },
+  { text: "en tablet de diseño", time: 168 },
+  { text: "LOf pa ti si leíste completo", time: 170 },
 ];
 
 // Animar las letras
